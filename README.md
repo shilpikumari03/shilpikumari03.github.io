@@ -38,6 +38,7 @@
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
+✔️ Blog
 ✔️ Contact Info\
 ✔️ Resume
 
