@@ -11,7 +11,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://shilpikumari03.github.io" target="_blank"><img src="shilpiL.jpeg">
+    <a href="https://shilpikumari03.github.io" target="_blank"><img src=""C:\Users\shilp\Downloads\shilpiI.jpeg"">
   </a>
   </kbd>
 </p>
